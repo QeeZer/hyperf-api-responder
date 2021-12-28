@@ -1,0 +1,20 @@
+{
+    "name": "qeezer/hyperf-api-responder",
+    "description": "a hyperf framework api responder",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "QeeZer\\HyperfApiResponder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "qeezer",
+            "email": "184353381@qq.com"
+        }
+    ],
+    "require": {
+        "hyperf/http-server": "~v2.2.0"
+    }
+}
