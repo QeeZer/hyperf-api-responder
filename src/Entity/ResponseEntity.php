@@ -11,6 +11,8 @@ class ResponseEntity implements Arrayable
 
     public const DEFAULT_FAIL_CODE = 1;
 
+    public const DEFAULT_STRING_CODE = 2;
+
     public const DEFAULT_SUCCESS_MESSAGE = 'ok';
 
     public const DEFAULT_FAIL_MESSAGE = 'fail';
